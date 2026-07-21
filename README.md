@@ -15,4 +15,8 @@ solutions
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
