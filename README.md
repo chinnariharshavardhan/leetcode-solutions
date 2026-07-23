@@ -6,6 +6,7 @@ solutions
 ## Array
 |  |
 | ------- |
+| [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -19,4 +20,8 @@ solutions
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
