@@ -12,6 +12,7 @@ solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -31,6 +32,7 @@ solutions
 | [0021-merge-two-sorted-lists](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -39,4 +41,5 @@ solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
