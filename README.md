@@ -13,6 +13,7 @@ solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -22,6 +23,7 @@ solutions
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +44,5 @@ solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
