@@ -15,6 +15,7 @@ solutions
 | [0142-linked-list-cycle-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -39,12 +40,14 @@ solutions
 | [0142-linked-list-cycle-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +66,8 @@ solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
