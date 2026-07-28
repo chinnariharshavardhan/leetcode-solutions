@@ -47,7 +47,7 @@ class Solution {
             head=head.next;
             head2=head2.next;
         }
-        reverse(revhead);
+        // reverse(revhead);  
         if(head==null || head2==null){
             return true;
         }
