@@ -29,6 +29,7 @@ solutions
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0202-happy-number) |
+| [2579-count-total-number-of-colored-cells](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 ## Binary Search
 |  |
 | ------- |
