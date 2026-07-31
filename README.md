@@ -6,6 +6,7 @@ solutions
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -75,6 +76,7 @@ solutions
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -86,4 +88,8 @@ solutions
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
