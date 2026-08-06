@@ -7,6 +7,7 @@ solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -65,6 +66,7 @@ solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -140,6 +143,7 @@ solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -161,4 +165,8 @@ solutions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
