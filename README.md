@@ -51,6 +51,7 @@ solutions
 | [0148-sort-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Recursion
@@ -95,6 +96,7 @@ solutions
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
