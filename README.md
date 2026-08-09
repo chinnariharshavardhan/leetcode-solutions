@@ -52,6 +52,7 @@ solutions
 | [0206-reverse-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@ solutions
 | [0543-diameter-of-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@ solutions
 | [0543-diameter-of-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +191,7 @@ solutions
 | [0543-diameter-of-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
