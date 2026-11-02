@@ -9,6 +9,7 @@ solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0136-single-number) |
 | [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -215,4 +216,8 @@ solutions
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
