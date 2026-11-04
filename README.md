@@ -10,6 +10,7 @@ solutions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0136-single-number) |
+| [1019-next-greater-node-in-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -58,6 +59,7 @@ solutions
 | [0328-odd-even-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Recursion
@@ -100,6 +102,7 @@ solutions
 | [0232-implement-queue-using-stacks](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
@@ -114,6 +117,7 @@ solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1019-next-greater-node-in-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## String
 |  |
 | ------- |
