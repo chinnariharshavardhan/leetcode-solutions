@@ -62,6 +62,7 @@ solutions
 | [1019-next-greater-node-in-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [1669-merge-in-between-linked-lists](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
