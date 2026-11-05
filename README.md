@@ -48,6 +48,7 @@ solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -75,6 +76,7 @@ solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0206-reverse-linked-list) |
