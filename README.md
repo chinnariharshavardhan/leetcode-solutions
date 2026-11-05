@@ -11,6 +11,7 @@ solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0136-single-number) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -25,6 +26,7 @@ solutions
 | [0202-happy-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -40,6 +42,7 @@ solutions
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Linked List
 |  |
@@ -93,6 +96,7 @@ solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0148-sort-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
