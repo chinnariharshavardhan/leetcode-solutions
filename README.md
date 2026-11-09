@@ -32,12 +32,14 @@ solutions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0258-add-digits) |
 | [2579-count-total-number-of-colored-cells](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 ## Binary Search
 |  |
@@ -248,4 +250,8 @@ solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
