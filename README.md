@@ -117,6 +117,7 @@ solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -163,6 +164,7 @@ solutions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -203,6 +205,7 @@ solutions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -222,6 +225,7 @@ solutions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
