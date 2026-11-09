@@ -10,6 +10,7 @@ solutions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -103,6 +104,7 @@ solutions
 | ------- |
 | [0147-insertion-sort-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Merge Sort
 |  |
@@ -254,4 +256,16 @@ solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0258-add-digits) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chinnariharshavardhan/leetcode-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
